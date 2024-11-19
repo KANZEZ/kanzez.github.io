@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+My Latest CV
+======
+<iframe src="https://drive.google.com/file/d/1TWgC2mSwddFLi0fH2CH652BM0qwrF4-4/preview" 
+        width="100%" height="600px" 
+        frameborder="0">
+</iframe>
 
 Education
 ======
@@ -44,13 +50,13 @@ Skills
   * Mandarin
   * English
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

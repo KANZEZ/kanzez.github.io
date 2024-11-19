@@ -9,7 +9,7 @@ redirect_from:
 
 
 Hey! my name is Songhao Huang (黄松昊). I’m a second-year master student at the Department of Mechanical Engineering and Applied Mechanics (MEAM), University of Pennsylvania. Currently, I do research at GRASP Lab. I received my Bachelor degree in Robotics Engineering at the Southern University of Science and Technology, China.
-My research interests lie in the intersection of planning and learning, I’m deeply interested in (single / multi-agent / learning-enable) motion planning in the application of aerial/ground robotics.
+My research interests lie in the intersection of planning, control and learning, I’m deeply interested in (single / multi-agent / learning-enable) motion planning and control in the application of aerial/ground robotics.
 
 
 
