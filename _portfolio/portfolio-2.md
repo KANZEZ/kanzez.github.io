@@ -1,5 +1,5 @@
 ---
-title: "VIO-based UAV Navigation"
+title: "OSPA-ROBOT"
 excerpt: "<iframe width='420' height='280' src='https://www.youtube.com/embed/nDvy17QiYkE' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
 collection: portfolio
 ---
