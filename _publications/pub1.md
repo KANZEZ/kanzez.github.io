@@ -1,7 +1,7 @@
 ---
 title: "Safe Interval Motion Planning for Quadrotors in Dynamic Environments"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: 
 excerpt: 
 date: 2024-09-15
